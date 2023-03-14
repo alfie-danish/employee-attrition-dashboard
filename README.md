@@ -8,6 +8,9 @@
 This dashboard has been created to provide an overview of key metrics related to employee attrition. The metrics are based on a dataset provided [here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). The dashboard features detailed information on employee attrition rate, attrition count by various factors, employee satisfaction, and more. The visualizations are provided to help HR professionals and senior management better understand the trends and patterns within their organization. With this dashboard, organizations can gain a deeper understanding of employee attrition and take proactive steps to reduce turnover rates and improve employee retention.
 
 ## 🚀 Project Details
+Tech stack:
+- Tableau
+
 The types of charts used in this dashboard are as follows:
 - Scorecards
 - Horizonatal and Vertical Bars
